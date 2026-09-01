@@ -19,8 +19,6 @@ List of packages, services, and manuals related to web scraping.
 
 * [https://2captcha.com](https://2captcha.com/?from=3019071)
 
-* [universal-image-downloader](https://github.com/hariompatel61/universal-image-downloader) - Bulk-download images into folders from Excel/CSV sheets using Selenium, with resume and rate limiting.
-
 ## Proxy Server Marketplaces
 
 * https://www.blackhatworld.com/forums/proxies-for-sale.112/
